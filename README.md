@@ -8,19 +8,6 @@ This project involves analyzing the Titanic dataset, which includes information 
 ## Data Source
 The dataset used for this analysis is sourced from [Kaggle](https://www.kaggle.com/c/titanic) and contains information about the passengers aboard the Titanic, including their survival status.
 
-## Analysis Workflow
- Data Cleaning
-   - Loading the data
-   - Checking for missing values
-   - Removing duplicates
-   - Fixing data types
-   - Encoding categorical variables
- Exploratory Data Analysis (EDA)
-   - Descriptive statistics
-   - Univariate, Bivariate, and Multivariate analysis
- Modeling (if applicable)
-   - Building predictive models to analyze survival factors
-
 ## Usage
 To run the analysis, ensure you have Python and the required libraries installed. You can execute the Jupyter Notebook or Python scripts provided in this repository.
 
