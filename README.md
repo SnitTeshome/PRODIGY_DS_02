@@ -2,8 +2,14 @@
 git clone[https://github.com/SnitTeshome/PRODIGY_DS_02]
 # Titanic Dataset Analysis
 
-## Description
-This project involves analyzing the Titanic dataset, which includes information about the passengers on board the Titanic during its ill-fated maiden voyage in April 1912. The dataset contains various features such as passenger demographics, ticket class, and survival status. The analysis aims to uncover factors that influenced survival rates and gain insights into the tragic events surrounding the sinking of the Titanic.
+Description
+This project analyzes the Titanic dataset, which provides information about passengers aboard the RMS Titanic during its ill-fated maiden voyage in April 1912. The dataset includes various features, such as age, gender, class, and survival status. Our goal is to explore these variables to understand the factors influencing survival rates and to gain insights into the tragic events surrounding the sinking of the Titanic.
+
+# Overview
+In April 1912, the RMS Titanic set sail on its highly anticipated maiden voyage, symbolizing luxury and advanced engineering. Carrying over 2,200 passengers—wealthy elites, families, and hopeful immigrants—the Titanic represented a diverse microcosm of society. However, on the night of April 14, disaster struck when an iceberg collided with the ship, resulting in one of the most devastating maritime tragedies in history.
+
+This project examines the Titanic dataset, which details passengers' demographics, class, and survival outcomes. We aim to uncover factors that influenced survival, such as the impact of social class, age, and gender, and whether women and children received priority during the evacuation.
+
 
 ## Data Source
 The dataset used for this analysis is sourced from [Kaggle](https://www.kaggle.com/c/titanic) and contains information about the passengers aboard the Titanic, including their survival status.
