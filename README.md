@@ -67,5 +67,3 @@ We welcome contributions to enhance this project! Please fork the repository and
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to modify any section as needed to fit the specific focus of your project. This template should provide a comprehensive and professional README layout!
