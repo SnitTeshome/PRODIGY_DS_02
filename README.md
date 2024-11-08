@@ -35,7 +35,6 @@ git clone https://github.com/SnitTeshome/PRODIGY_DS_02
 cd PRODIGY_DS_02
 pip install -r requirements.txt
 ```
-
 ## Usage
 Run the analysis by executing the provided Jupyter Notebook or Python scripts in this repository. Ensure you have Python and required libraries installed to successfully perform the analysis.
 
