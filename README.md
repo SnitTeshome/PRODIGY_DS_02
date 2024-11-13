@@ -60,7 +60,7 @@ These visualizations help in interpreting and understanding the key factors infl
 This project was developed as part of my internship, with guidance and feedback from my mentor.
 
 ## Contributing
-We welcome contributions to enhance this project! Please fork the repository and submit a pull request. Make sure your code aligns with the project's coding standards.
+I welcome contributions to enhance this project! Please fork the repository and submit a pull request. Make sure your code aligns with the project's coding standards.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
